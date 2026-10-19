@@ -1,0 +1,10 @@
+# Virtual environment and Python cache
+.venv/
+__pycache__/
+*.pyc
+
+# Your call logs contain your prompts and responses - keep them private
+*.csv
+
+# Never commit API keys
+.env
